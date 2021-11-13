@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @armmtw1904
+- 👋 Hi, I’m Arun Mathew
 - 👀 I’m interested in Web development using Asp.Net Core
 - 🌱 I’m currently learning Blazor Web Assembly 
 - 📫 How to reach me .. armmtw1904@gmail.com
