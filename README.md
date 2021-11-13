@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @armmtw1904
-- 👀 I’m interested in Web development using .Net Core
+- 👀 I’m interested in Web development using Asp.Net Core
 - 🌱 I’m currently learning Blazor Web Assembly 
 - 📫 How to reach me .. armmtw1904@gmail.com
 <!---
